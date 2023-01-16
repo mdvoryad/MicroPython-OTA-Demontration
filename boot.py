@@ -112,7 +112,7 @@ x = 0
 while True:
     mqtt.ping()
     msg = mqtt.check_msg()
-    print("I do other important stuff")
+    print("I do VERY IMPORTANT STUFF")
     
 
     
